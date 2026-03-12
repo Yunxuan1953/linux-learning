@@ -19,3 +19,7 @@ day1 complete
 <img width="731" height="339" alt="image" src="https://github.com/user-attachments/assets/62b04692-6ef1-4d15-8ce0-421023c8d1ef" />
 <img width="1114" height="935" alt="image" src="https://github.com/user-attachments/assets/ca9b6ce0-aa1a-4c03-bea6-cc6106c41325" />
 Day2 complete
+
+## Day3
+https://www.yuque.com/yunxuan-udxsj/ad18cn/tzqv8qlu0kzae1o9
+Day3 complete
