@@ -21,5 +21,14 @@ day1 complete
 Day2 complete
 
 ## Day3
-https://www.yuque.com/yunxuan-udxsj/ad18cn/tzqv8qlu0kzae1o9
+<img width="924" height="875" alt="image" src="https://github.com/user-attachments/assets/0d08a28e-fa1d-4f3a-8aaf-8eded5062817" />
+<img width="875" height="994" alt="image" src="https://github.com/user-attachments/assets/0a7ae6bf-1cf1-4efc-b10e-0e3512943f0d" />
+<img width="830" height="635" alt="image" src="https://github.com/user-attachments/assets/34378340-1d90-4c9c-b95d-cb5fb38a05a1" />
+<img width="916" height="1020" alt="image" src="https://github.com/user-attachments/assets/a01bf650-f3f4-4376-a969-cb0858331f4a" />
+<img width="1006" height="846" alt="image" src="https://github.com/user-attachments/assets/29007868-de85-46c6-aa33-69ee93943b0b" />
+<img width="989" height="834" alt="image" src="https://github.com/user-attachments/assets/5f95e61b-d410-4cae-a38a-d07c68dbf676" />
+<img width="884" height="870" alt="image" src="https://github.com/user-attachments/assets/a5ac8155-2f34-44cf-b867-b6b6d7ccda6b" />
+<img width="843" height="739" alt="image" src="https://github.com/user-attachments/assets/63701239-b144-4c2d-a7c6-3cc361b8a023" />
+<img width="1246" height="809" alt="image" src="https://github.com/user-attachments/assets/b5d6370b-2890-4469-80bb-58ded95fcba0" />
+
 Day3 complete
