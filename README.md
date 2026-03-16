@@ -34,5 +34,9 @@ Day2 complete
 Day3 complete
 
 ## Day4+5
+https://www.yuque.com/yunxuan-udxsj/ad18cn/ln85tvq15kgpxbfr
+day4+5 complpelte
 
-
+## Day 6+7
+https://www.yuque.com/yunxuan-udxsj/ad18cn/trevga6syl2m2roi
+Day 6+7 complete
